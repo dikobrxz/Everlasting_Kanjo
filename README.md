@@ -1,19 +1,30 @@
 # Everlasting_Kanjo
 Mod for Everlasting Summer, made by dikobrxz
+
 Language: Russian, English (coming soon after release)
 
 Mod have 2 main roots, dependent on elections (Miku and Lena) and 2 DLC roots (DLC will be available after completing one of the main roots, and its also dependent on elections)
 
 Parts avaible:
+
 Prologue - code and content in progress (30%)
+
 Day 1 - code and content in progress (25%)
+
 Day 2 - only in text, without code file (60%)
+
 Day 3 - coming soon
+
 Day 4 (2 variations) - coming soon
+
 Day 5 (2 variations) - coming soon
+
 Day 6 (2 variations) - coming soon
+
 Day 7 (2 variations) - coming soon
+
 Epilogue (2 variations) - coming soon
+
 DLC (FREE, 2 variations) - in progress (5%)     (Yes, mod is not released, but DLC but DLC is already in progress :3 )
 
 
