@@ -25,7 +25,7 @@ Day 7 (2 variations) - coming soon
 
 Epilogue (2 variations) - coming soon
 
-DLC (FREE, 2 variations) - in progress (5%)     (Yes, mod is not released, but DLC but DLC is already in progress :3 )
+DLC (FREE, 2 variations) - in progress (5%)     (Yes, mod is not released, but DLC is already in progress :3 )
 
 
 -----------------------------DISCLAIMER-------------------------------
